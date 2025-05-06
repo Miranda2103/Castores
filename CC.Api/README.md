@@ -18,7 +18,7 @@ Lista de pasos para correr su aplicación.
 	Configurar los proyectos de inicio (CC.Api y CC.Web) para que abra ambos al mismo tiempo
 
 Nota:
-	En la carpeta CC.Api\Evaluacion se encuentra un documento con las respuestas sobre el ejercicio de conocimientos sql
+	En la carpeta CC.Api\Evaluacion se encuentra un documento con las respuestas sobre el ejercicio de conocimientos sql y un video donde se muestran los escenarios de su funcionamiento
 	Los usuarios por defecto son 
 	Usuario:	admin
 	Pass:		123
