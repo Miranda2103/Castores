@@ -1,0 +1,64 @@
+<div class="w100 h100 fx fx-direction-row">
+
+  <div *ngIf="!shared.rd" class="w70 h100 jh mat-elevation-z5">
+
+    <div class="w100 h100 fx fx-middle content-center">
+
+      <div class="w25">
+        
+      </div>
+
+    </div>
+  </div>
+
+  <div class="w30 h100">
+
+    <div class="w100 h100 fx content-center padding-top" [ngClass]="{ 'fx-middle mat-drawer-container': shared.rd }">
+
+      <div class="w80 hpx300">
+
+        <div *ngIf="!shared.rd" class="w100 fx fx-middle content-center padding">
+
+        </div>
+
+        <div class="w100 border-rd radius mat-elevation-z1-rd">
+
+          <div class="w100 fx fx-middle content-center jh-login">
+            <mat-icon class="fl-left padding-right-05">account_circle</mat-icon>
+            <h1>Acceso</h1>
+          </div>
+
+          <div class="w100 padding">
+
+            <mat-form-field class="w100" appearance="outline">
+              <mat-label>Usuario</mat-label>
+              <input matInput [(ngModel)]="usuario" maxlength="25" (keyup.enter)="ngKeyUp()">
+            </mat-form-field>
+
+            <mat-form-field class="w100" appearance="outline">
+              <mat-label>Contraseña</mat-label>
+              <input matInput [(ngModel)]="contrasena" type="password" maxlength="25" (keyup.enter)="ngKeyUp()">
+            </mat-form-field>
+
+            <div class="w100 align-center" [ngClass]="{'visible' : usuario != '' && contrasena != '', 'hidden' : usuario == '' || contrasena == ''}">
+              <button mat-raised-button class="wpx125" (click)="ngController(1)">
+                <mat-icon class="fl-left button-icon">check_circle_outline</mat-icon>
+                Ingresar
+              </button>
+            </div>
+
+            <div class="w100 align-right-rd-center">
+              <mat-label class="label-x-small">v{{ constant.version }}</mat-label>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

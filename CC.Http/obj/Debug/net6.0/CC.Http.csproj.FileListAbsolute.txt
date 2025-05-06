@@ -1,0 +1,69 @@
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Http.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Http.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Http.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\refint\CC.Http.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\CC.Http.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Http\obj\Debug\net6.0\ref\CC.Http.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Http.deps.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Http.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Http.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\refint\CC.Http.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\CC.Http.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Http\obj\Debug\net6.0\ref\CC.Http.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Http.deps.json
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Http.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Http.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Http\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\refint\CC.Http.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\CC.Http.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Http\obj\Debug\net6.0\ref\CC.Http.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Http.deps.json
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Http.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Http.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Http\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.sourcelink.json
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.csproj.CopyComplete
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\refint\CC.Http.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\CC.Http.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Http\obj\Debug\net6.0\ref\CC.Http.dll

@@ -1,0 +1,93 @@
+<mat-toolbar *ngIf="shared.rd">
+
+  <img src="../assets/jh-brayer-group-1.png" class="image invert" width="100" />
+
+  <div class="fx fx-middle fx-push">
+    <button mat-icon-button (click)="sidenav.toggle();">
+      <mat-icon class="color-white" matTooltip="Menu">more_vert</mat-icon>
+    </button>
+  </div>
+
+</mat-toolbar>
+
+<mat-sidenav-container class="hc">
+
+  <mat-sidenav #sidenav [mode]="mode" [opened]="opened" [disableClose]="closed" autoFocus="true" class="wpx250 jh-menu">
+
+    <div class="w100 h100 fx fx-direction-column-static content-space-between">
+
+      <div class="w100">
+
+        <div *ngIf="!shared.rd">
+
+          <div class="w100 align-center padding-top">
+          </div>
+
+        </div>
+
+        <mat-nav-list (click)="ngCloseSide();">
+
+          <div class="w100 padding-top padding-bottom">
+          </div>
+
+          <div *ngFor="let item of inViewRolMenuFilter">
+
+            <mat-accordion *ngIf="item.idMenu >= 1">
+              <mat-expansion-panel #matExpansionPanel>
+
+                <mat-expansion-panel-header (click)="ngOpenPanel(item.idMenu,matExpansionPanel,$event);">
+                  <mat-panel-title class="fx fx-middle">
+                    <mat-icon class="fl-left padding-right-05">{{ item['icono'] }}</mat-icon>
+                    {{ item['menu'] }}
+                  </mat-panel-title>
+                </mat-expansion-panel-header>
+
+                <mat-list>
+                  <div *ngFor="let row of inViewRolSubMenuFilter">
+
+                    <mat-list-item class="color-gray padding-left" *ngIf="row['ruta'] == '/main/products-entry'" [routerLink]="[row['ruta']]" [routerLinkActive]="['active']" (click)="ngClosePanel();"> <mat-icon class="fl-left padding-left-05 padding-right-05"> {{ row['icono'] }}</mat-icon> {{ row['subMenu'] }} </mat-list-item>
+                    <mat-list-item class="color-gray padding-left" *ngIf="row['ruta'] == '/main/products-output'" [routerLink]="[row['ruta']]" [routerLinkActive]="['active']" (click)="ngClosePanel();"> <mat-icon class="fl-left padding-left-05 padding-right-05"> {{ row['icono'] }}</mat-icon> {{ row['subMenu'] }}</mat-list-item>
+                    <mat-list-item class="color-gray padding-left" *ngIf="row['ruta'] == '/main/products-history'" [routerLink]="[row['ruta']]" [routerLinkActive]="['active']" (click)="ngClosePanel();"> <mat-icon class="fl-left padding-left-05 padding-right-05"> {{ row['icono'] }}</mat-icon> {{ row['subMenu'] }}</mat-list-item>
+                    
+                    <mat-list-item class="color-gray padding-left" *ngIf="row['ruta'] == '/main/rol'" [routerLink]="[row['ruta']]" [routerLinkActive]="['active']" (click)="ngClosePanel();"> <mat-icon class="fl-left padding-left-05 padding-right-05"> {{ row['icono'] }}</mat-icon> {{ row['subMenu'] }}</mat-list-item>
+                    <mat-list-item class="color-gray padding-left" *ngIf="row['ruta'] == '/main/rol-menu'" [routerLink]="[row['ruta']]" [routerLinkActive]="['active']" (click)="ngClosePanel();"> <mat-icon class="fl-left padding-left-05 padding-right-05"> {{ row['icono'] }}</mat-icon> {{ row['subMenu'] }}</mat-list-item>
+                    <mat-list-item class="color-gray padding-left" *ngIf="row['ruta'] == '/main/user'" [routerLink]="[row['ruta']]" [routerLinkActive]="['active']" (click)="ngClosePanel();"> <mat-icon class="fl-left padding-left-05 padding-right-05"> {{ row['icono'] }}</mat-icon> {{ row['subMenu'] }}</mat-list-item>
+
+                  </div>
+
+                </mat-list>
+
+              </mat-expansion-panel>
+            </mat-accordion>
+
+          </div>
+
+          <mat-accordion>
+            <mat-expansion-panel hideToggle [routerLink]="['/login']">
+              <mat-expansion-panel-header #panelSalir (click)="panelSalir._toggle();">
+                <mat-panel-title class="fx fx-middle">
+                  <mat-icon class="fl-left padding-right-05">exit_to_app</mat-icon>
+                  Salir
+                </mat-panel-title>
+              </mat-expansion-panel-header>
+            </mat-expansion-panel>
+          </mat-accordion>
+
+        </mat-nav-list>
+
+      </div>
+
+      <div class="w100 padding">
+        <mat-label class="label-x-small color-white">v{{ constant.version }}</mat-label>
+      </div>
+
+    </div>
+
+  </mat-sidenav>
+
+  <mat-sidenav-content class="background-jh-4">
+    <router-outlet></router-outlet>
+  </mat-sidenav-content>
+
+</mat-sidenav-container>
+

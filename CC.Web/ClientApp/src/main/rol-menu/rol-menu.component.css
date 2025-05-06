@@ -1,0 +1,30 @@
+.mat-column-editar {
+  width: 100px !important;
+}
+
+.mat-column-menu {
+  width: 200px !important;
+}
+
+.mat-column-icono {
+  width: 200px !important;
+}
+
+.mat-column-orden {
+  width: 200px !important;
+}
+
+.mat-column-estatus {
+  width: 200px !important;
+}
+
+.mat-column-submenu {
+  width: 100px !important;
+}
+
+@media screen and (max-width:600px) {
+
+  .mat-column-editar, .mat-column-menu, .mat-column-icono, .mat-column-orden, .mat-column-estatus, .mat-column-submenu {
+    width: 100% !important;
+  }
+}

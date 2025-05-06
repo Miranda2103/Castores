@@ -1,0 +1,133 @@
+<div class="w100 h100 fx fx-direction-row">
+
+  <div class="w25 h100 fx fx-flow border-right background-jh-2" *ngIf="!shared.rd">
+
+    <div class="w100 padding">
+
+      <div class="fl-left">
+        <h1>Mensaje del Sistema</h1>
+      </div>
+
+      <div class="fx-push align-right">
+        <button mat-icon-button [mat-dialog-close]="close" color="warn" matTooltip="Cerrar">
+          <mat-icon>close</mat-icon>
+        </button>
+      </div>
+
+    </div>
+
+    <div class="w100 fx-remaining fx fx-middle content-center">
+
+      <mat-icon class="padding-right-05">info</mat-icon>
+      <mat-label class="bold">Usuarios</mat-label>
+
+    </div>
+
+  </div>
+
+  <div class="w40 h100 padding border-right-rd background-jh-4 overflow">
+
+    <div class="w100 padding" *ngIf="shared.rd">
+      <button mat-raised-button class="wpx125 background-cerrar" [mat-dialog-close]="close">
+        <mat-icon class="fl-left button-icon">close</mat-icon>
+        Cerrar
+      </button>
+    </div>
+
+    <div class="w100 h100 fx fx-middle">
+
+      <div class="w100">
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Usuario</mat-label>
+          <input matInput [(ngModel)]="iUsuario.usuario" oninput="value = value.toUpperCase()" (focusout)="ngController(2);" maxlength="50" [disabled]="iUsuario.id != 0">
+          <button mat-icon-button matSuffix *ngIf="iUsuario.usuario != ''" [disabled]="iUsuario.id != 0" (click)="ngClean(5);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <div class="w100 fx fx-direction-row">
+
+          <div class="w90">
+
+            <mat-form-field class="w100" appearance="outline">
+              <mat-label>Contrasena</mat-label>
+              <input matInput [(ngModel)]="iUsuario.contrasena" type="{{ input }}" disabled>
+            </mat-form-field>
+
+          </div>
+
+          <div class="w10 fx fx-middle content-center">
+            <button mat-icon-button (click)="ngResetPassword();">
+              <mat-icon matTooltip="Resetear Contraseña">repeat</mat-icon>
+            </button>
+          </div>
+
+        </div>
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Nombre</mat-label>
+          <input matInput [(ngModel)]="iUsuario.nombre" oninput="value = value.toUpperCase()" maxlength="50">
+          <button mat-icon-button matSuffix *ngIf="iUsuario.nombre != ''" (click)="ngClean(7);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Apellido Paterno</mat-label>
+          <input matInput [(ngModel)]="iUsuario.apellidoPaterno" oninput="value = value.toUpperCase()" maxlength="50">
+          <button mat-icon-button matSuffix *ngIf="iUsuario.apellidoPaterno != ''" (click)="ngClean(8);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Apellido Materno</mat-label>
+          <input matInput [(ngModel)]="iUsuario.apellidoMaterno" oninput="value = value.toUpperCase()" maxlength="50">
+          <button mat-icon-button matSuffix *ngIf="iUsuario.apellidoMaterno != ''" (click)="ngClean(9);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Rol</mat-label>
+          <mat-select [panelClass]="'panel-select'" #selectRol [(value)]="iUsuario.idRol">
+            <mat-select-filter *ngIf="selectRol.focused" [array]="inRol" [displayMember]="'rol'" [showSpinner]="false" placeholder="Buscar" noResultsMessage="" (filteredReturn)="filteredRol = $event"></mat-select-filter>
+            <mat-option *ngFor="let item of filteredRol" [value]="item['id']">
+              {{ item['rol'] }}
+            </mat-option>
+          </mat-select>
+          <button mat-icon-button matSuffix *ngIf="iUsuario.idRol != 0" (click)="ngClean(10,$event);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <div class="w100 fx fx-direction-row">
+
+          <div class="w50 align-right" [ngClass]="{'visible' : iUsuario.usuario != '' || iUsuario.nombre != '' || iUsuario.apellidoPaterno != '' || iUsuario.apellidoMaterno != '' || iUsuario.idRol != 0, 'hidden' : iUsuario.usuario == '' && iUsuario.nombre == '' && iUsuario.apellidoPaterno == '' && iUsuario.apellidoMaterno == '' && iUsuario.idRol == 0 }">
+
+            <button mat-raised-button class="wpx125" (click)="ngClean(11);">
+              <mat-icon class="fl-left button-icon">remove_circle_outline</mat-icon>
+              Borrar
+            </button>
+
+          </div>
+
+          <div class="w50" [ngClass]="{'visible' : iUsuario.usuario != '' && iUsuario.contrasena != '' && iUsuario.nombre != '' && iUsuario.apellidoPaterno != '' && iUsuario.apellidoMaterno != '' && iUsuario.idRol != 0, 'hidden' : iUsuario.usuario == '' || iUsuario.contrasena == '' || iUsuario.nombre == '' || iUsuario.apellidoPaterno == '' || iUsuario.apellidoMaterno == ''|| iUsuario.idRol == 0 }">
+
+            <button mat-raised-button class="wpx125" (click)="close = true; ngController(3);">
+              <mat-icon class="fl-left button-icon">save</mat-icon>
+              Guardar
+            </button>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

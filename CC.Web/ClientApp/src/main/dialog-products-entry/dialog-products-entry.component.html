@@ -1,0 +1,85 @@
+<div class="w100 h100 fx fx-direction-row">
+
+  <div class="w25 h100 fx fx-flow border-right background-jh-2" *ngIf="!shared.rd">
+
+    <div class="w100 padding">
+
+      <div class="fl-left">
+        <h1>Mensaje del Sistema</h1>
+      </div>
+
+      <div class="fx-push align-right">
+        <button mat-icon-button [mat-dialog-close]="close" color="warn" matTooltip="Cerrar">
+          <mat-icon>close</mat-icon>
+        </button>
+      </div>
+
+    </div>
+
+    <div class="w100 fx-remaining fx fx-middle content-center">
+
+      <mat-icon class="padding-right-05">info</mat-icon>
+      <mat-label class="bold">Usuarios</mat-label>
+
+    </div>
+
+  </div>
+
+  <div class="w40 h100 padding border-right-rd background-jh-4 overflow">
+
+    <div class="w100 padding" *ngIf="shared.rd">
+      <button mat-raised-button class="wpx125 background-cerrar" [mat-dialog-close]="close">
+        <mat-icon class="fl-left button-icon">close</mat-icon>
+        Cerrar
+      </button>
+    </div>
+
+    <div class="w100 h100 fx fx-middle">
+
+      <div class="w100">
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Producto</mat-label>
+          <input matInput [(ngModel)]="iProductoEntrada.producto" oninput="value = value.toUpperCase()" maxlength="50">
+          <button mat-icon-button matSuffix *ngIf="iProductoEntrada.producto != ''" (click)="ngClean(3);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Cantidad</mat-label>
+          <input matInput [(ngModel)]="iProductoEntrada.cantidad" maxlength="10" (keypress)="this.shared.ngNumber($event)" (focusout)="ngValidate(1);">
+          <button mat-icon-button matSuffix *ngIf="iProductoEntrada.cantidad != 0" (click)="ngClean(4);">
+            <mat-icon matTooltip="Limpiar">close</mat-icon>
+          </button>
+        </mat-form-field>
+
+        <div class="w100 fx fx-direction-row">
+
+          <div class="w50 align-right" [ngClass]="{'visible' : iProductoEntrada.producto != '', 'hidden' : iProductoEntrada.producto == '' }">
+
+            <button mat-raised-button class="wpx125" (click)="ngClean(5);">
+              <mat-icon class="fl-left button-icon">remove_circle_outline</mat-icon>
+              Borrar
+            </button>
+
+          </div>
+
+          <div class="w50" [ngClass]="{'visible' : iProductoEntrada.producto != '', 'hidden' : iProductoEntrada.producto == '' }">
+
+            <button mat-raised-button class="wpx125" (click)="close = true; ngController(1);">
+              <mat-icon class="fl-left button-icon">save</mat-icon>
+              Guardar
+            </button>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>

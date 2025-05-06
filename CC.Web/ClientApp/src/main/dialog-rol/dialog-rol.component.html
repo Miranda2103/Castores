@@ -1,0 +1,66 @@
+<div class="w100 h100 fx">
+
+  <div class="w25 h100 fx fx-flow border-right background-jh-2" *ngIf="!shared.rd">
+
+    <div class="w100 padding">
+
+      <div class="fl-left">
+        <h1>Mensaje del Sistema</h1>
+      </div>
+
+      <div class="fx-push align-right">
+        <button mat-icon-button [mat-dialog-close]="false" color="warn" matTooltip="Cerrar">
+          <mat-icon>close</mat-icon>
+        </button>
+      </div>
+
+    </div>
+
+    <div class="w100 fx-remaining fx fx-middle content-center">
+
+      <mat-icon class="padding-right-05">info</mat-icon>
+      <mat-label class="bold">Rol</mat-label>
+
+    </div>
+
+  </div>
+
+  <div class="w75 h100 padding background-jh-4 overflow">
+
+    <div class="w100 padding" *ngIf="shared.rd">
+      <button mat-raised-button class="wpx125" [mat-dialog-close]="false">
+        <mat-icon class="fl-left button-icon">close</mat-icon>
+        Cerrar
+      </button>
+    </div>
+
+    <div class="w40 h100 fx fx-middle">
+
+      <div class="w100">
+
+        <mat-form-field class="w100" appearance="outline">
+          <mat-label>Rol</mat-label>
+          <input matInput [(ngModel)]="rol" (focusout)="ngController(1)" maxlength="50">
+        </mat-form-field>
+
+        <div class="w100 align-center" [ngClass]="{'visible' : rol != '', 'hidden' : rol == '' }">
+
+          <button mat-raised-button class="wpx125" (click)="ngController(2);" *ngIf="option == 1">
+            <mat-icon class="fl-left button-icon">save</mat-icon>
+            Guardar
+          </button>
+
+          <button mat-raised-button class="wpx125" (click)="ngController(3);" *ngIf="option == 2">
+            <mat-icon class="fl-left button-icon">save</mat-icon>
+            Guardar
+          </button>
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+</div>
+

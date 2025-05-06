@@ -1,0 +1,90 @@
+C:\Users\syste\source\repos\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\syste\source\repos\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\syste\source\repos\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\syste\Documents\GitHub\crm\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\Lenovo\source\repo\ccc\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.sourcelink.json
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CopyComplete
+C:\Users\Lenovo\source\repo\ccc\CC.Function\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Function\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\bin\Debug\net6.0\CC.Function.deps.json
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\bin\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\bin\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\refint\CC.Function.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Function\obj\Debug\net6.0\ref\CC.Function.dll

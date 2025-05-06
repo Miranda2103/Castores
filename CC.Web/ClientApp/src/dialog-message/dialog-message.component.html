@@ -1,0 +1,55 @@
+<div class="w100 h100 fx fx-direction-row">
+
+  <div *ngIf="!shared.rd" class="w70 h100 mat-elevation-z5">
+
+    <div class="w100 h100 fx fx-middle content-center">
+
+      <div class="w25">
+        
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="w30 h100 fx fx-flow padding overflow">
+
+    <div class="w100">
+
+      <div class="fl-left">
+        <h1>Mensaje del Sistema</h1>
+      </div>
+
+      <div class="fx-push align-right">
+        <button mat-icon-button [mat-dialog-close]="true" color="warn" matTooltip="Cerrar">
+          <mat-icon>close</mat-icon>
+        </button>
+      </div>
+
+    </div>
+
+    <div class="w100 fx-remaining fx fx-middle">
+      <div class="w100 padding">
+
+        <mat-icon class="fl-left padding-right-05">info</mat-icon>
+
+        <div class="w100 button-icon" [innerHtml]="message">
+        </div>
+
+        <br />
+        <br />
+
+        <div class="w100 align-center">
+          <button #button mat-raised-button class="wpx125" (click)="dialog.close();">
+            <mat-icon class="fl-left button-icon">check_circle_outline</mat-icon>
+            OK
+          </button>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+</div>
+

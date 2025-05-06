@@ -1,0 +1,120 @@
+C:\Users\syste\source\repos\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\syste\source\repos\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\syste\source\repos\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\source\repos\CallCenter\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll
+C:\Users\syste\source\repos\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\syste\source\repos\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\syste\Documents\GitHub\crm\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\syste\Documents\GitHub\crm\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\Lenovo\source\repo\ccc\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\Lenovo\source\repo\ccc\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.sourcelink.json
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\bin\Debug\net6.0\CC.Context.deps.json
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\bin\Debug\net6.0\CC.Context.runtimeconfig.json
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\bin\Debug\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\bin\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\refint\CC.Context.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\CC.Context.genruntimeconfig.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Context\obj\Debug\net6.0\ref\CC.Context.dll

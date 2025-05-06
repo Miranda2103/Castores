@@ -1,0 +1,106 @@
+C:\Users\syste\source\repos\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\syste\source\repos\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\source\repos\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\source\repos\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\crm\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.sourcelink.json
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\bin\Debug\net6.0\CC.Interface.deps.json
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\bin\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\bin\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\bin\Debug\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\bin\Debug\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\refint\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\Castores\CC.Interface\obj\Debug\net6.0\ref\CC.Interface.dll

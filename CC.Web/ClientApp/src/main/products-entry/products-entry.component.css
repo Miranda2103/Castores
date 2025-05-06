@@ -1,0 +1,25 @@
+.mat-column-editar {
+  width: 100px !important;
+}
+
+.mat-column-producto {
+  width: 200px !important;
+}
+
+.mat-column-cantidad {
+  width: 200px !important;
+}
+
+.mat-column-fecha {
+  width: 200px !important;
+}
+
+.mat-column-activo {
+  width: 200px !important;
+}
+
+@media screen and (max-width:600px) {
+  .mat-column-editar, .mat-column-producto, .mat-column-cantidad, .mat-column-fecha, .mat-column-activo {
+    width: 100% !important;
+  }
+}

@@ -1,0 +1,142 @@
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.deps.json
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.runtimeconfig.json
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Context.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Function.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Interface.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Model.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Repository.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Context.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Function.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Interface.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Repository.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\bin\Release\net6.0\CC.Model.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.AssemblyReference.cache
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfoInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfo.cs
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CoreCompileInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CopyComplete
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\refint\CC.Logic.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.genruntimeconfig.cache
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\ref\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Repository.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Context.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Repository.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\refint\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\ref\CC.Logic.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\syste\source\repos\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Logic.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Context.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Function.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Interface.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Repository.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Context.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Function.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Repository.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.ResolveComReference.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\refint\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\CC.Logic.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\obj\Release\net6.0\ref\CC.Logic.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Http.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Logic\bin\Release\net6.0\CC.Http.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.deps.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.runtimeconfig.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Context.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Function.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Http.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Interface.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Repository.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Context.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Function.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Http.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Interface.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Repository.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\bin\Release\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.ResolveComReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CopyComplete
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\refint\CC.Logic.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.genruntimeconfig.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Logic\obj\Release\net6.0\ref\CC.Logic.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.deps.json
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.runtimeconfig.json
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Logic.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Context.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Function.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Http.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Interface.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Repository.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Context.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Function.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Http.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Interface.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Repository.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\bin\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.ResolveComReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.sourcelink.json
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.csproj.CopyComplete
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\refint\CC.Logic.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\CC.Logic.genruntimeconfig.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Logic\obj\Release\net6.0\ref\CC.Logic.dll

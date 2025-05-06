@@ -1,0 +1,21 @@
+.mat-column-editar {
+  width: 100px !important;
+}
+
+.mat-column-rol {
+  width: 250px !important;
+}
+
+.mat-column-fecha {
+  width: 250px !important;
+}
+
+.mat-column-eliminar {
+  width: 100px !important;
+}
+
+@media screen and (max-width:600px) {
+  .mat-column-editar, .mat-column-rol, .mat-column-fecha, .mat-column-eliminar {
+    width: 100% !important;
+  }
+}

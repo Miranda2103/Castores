@@ -1,0 +1,33 @@
+.mat-column-editar {
+  width: 100px !important;
+}
+
+.mat-column-producto {
+  width: 200px !important;
+}
+
+.mat-column-cantidadEntrada {
+  width: 200px !important;
+}
+
+.mat-column-cantidadSalida {
+  width: 200px !important;
+}
+
+.mat-column-cantidad {
+  width: 200px !important;
+}
+
+.mat-column-fecha {
+  width: 200px !important;
+}
+
+.mat-column-guardar {
+  width: 100px !important;
+}
+
+@media screen and (max-width:600px) {
+  .mat-column-editar, .mat-column-producto, .mat-column-cantidadEntrada, .mat-column-cantidadSalida, .mat-column-cantidad, .mat-column-fecha, .mat-column-guardar {
+    width: 100% !important;
+  }
+}

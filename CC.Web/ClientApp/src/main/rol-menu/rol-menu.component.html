@@ -1,0 +1,196 @@
+<div class="w100 ha100 fx fx-flow padding">
+
+  <div class="w100 fx fx-direction-row fx-middle content-center border-bottom">
+
+    <div class="w40 padding-top-05">
+
+      <mat-form-field class="w40" appearance="outline">
+        <mat-label>Rol</mat-label>
+        <mat-select [panelClass]="'panel-select'" #selectRol [(value)]="idRol" (selectionChange)="ngController(3);">
+          <mat-select-filter *ngIf="selectRol.focused" [array]="inRol" [displayMember]="'rol'" [showSpinner]="false" placeholder="Buscar" noResultsMessage="" (filteredReturn)="filteredRol = $event"></mat-select-filter>
+          <mat-option *ngFor="let item of filteredRol" [value]="item['id']">
+            {{ item['rol'] }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+    </div>
+
+    <div class="w25 align-center padding-bottom-05">
+
+      <button mat-raised-button class="wpx125" (click)="ngController(3);">
+        <mat-icon class="fl-left button-icon">refresh</mat-icon>
+        Consultar
+      </button>
+
+      <button mat-raised-button class="wpx125" (click)="ngExport(1);" *ngIf="inViewMenu.length >= 1">
+        <mat-icon class="fl-left button-icon">get_app</mat-icon>
+        Descargar
+      </button>
+
+      <button mat-raised-button class="wpx125" (click)="ngController(5);" *ngIf="inViewMenu.length >= 1">
+        <mat-icon class="fl-left button-icon">save</mat-icon>
+        Guardar
+      </button>
+
+    </div>
+
+    <div class="w10 align-center">
+    </div>
+
+    <div class="w25 fx content-center">
+
+      <mat-paginator [pageSizeOptions]="[100, 250, 500, 1000]" showFirstLastButtons>
+      </mat-paginator>
+
+    </div>
+
+  </div>
+
+
+  <div class="w100" *ngIf="shared.rd">
+    <mat-form-field class="w100">
+      <mat-label>Buscar</mat-label>
+      <input matInput [(ngModel)]="search" (keyup)="ngSearch(2);">
+      <button mat-icon-button matSuffix *ngIf="search !== ''" (click)="ngClean(6); ngSearch(2);">
+        <mat-icon matTooltip="Limpiar">close</mat-icon>
+      </button>
+    </mat-form-field>
+  </div>
+
+  <div class="w100 h100 border-rd fx-remaining mat-elevation-z1 overflow background-7">
+    <table mat-table [dataSource]="ds" class="wmc" matSort>
+
+      <tr mat-header-row *matHeaderRowDef="dc; sticky: true"></tr>
+      <tr mat-header-row *matHeaderRowDef="fl; sticky: true"></tr>
+      <tr mat-row *matRowDef="let row; columns: dc;"></tr>
+
+      <!--FILTER-->
+
+      <ng-container matColumnDef="editar-se">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="menu-se">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-form-field class="w95 underline-white arrow-white">
+            <mat-label class="color-white">Filtro</mat-label>
+            <mat-select [panelClass]="'panel-select'" [formControl]="fcMenu" multiple>
+              <mat-option *ngFor="let item of dsMenu" [value]="item">
+                <mat-label title="{{ item }}">{{ item }}</mat-label>
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="icono-se">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-form-field class="w95 underline-white">
+            <mat-label class="color-white">Filtro</mat-label>
+            <input matInput [formControl]="fcIcono">
+          </mat-form-field>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="orden-se">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-form-field class="w95 underline-white arrow-white">
+            <mat-label class="color-white">Filtro</mat-label>
+            <mat-select [panelClass]="'panel-select'" [formControl]="fcOrden" multiple>
+              <mat-option *ngFor="let item of dsOrden" [value]="item">
+                <mat-label title="{{ item }}">{{ item }}</mat-label>
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="estatus-se">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-form-field class="w95 underline-white arrow-white">
+            <mat-label class="color-white">Filtro</mat-label>
+            <mat-select [panelClass]="'panel-select'" [formControl]="fcEstatus">
+              <mat-option *ngFor="let item of dsEstatus" [value]="item">
+                <mat-label title="{{ item }}">{{ item }}</mat-label>
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="submenu-se">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+      </ng-container>
+
+      <!--HEADER-->
+
+      <ng-container matColumnDef="editar">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+        <td mat-cell *matCellDef="let row" class="align-center">
+          <mat-label class="mobile-field mobile-label bold"></mat-label>
+          <button mat-icon-button matTooltip="Editar" (click)="ngDialogMenu(row)">
+            <mat-icon>edit</mat-icon>
+          </button>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="menu">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          <mat-label>Menu</mat-label>
+        </th>
+        <td mat-cell *matCellDef="let row" class="truncate-row">
+          <mat-label class="mobile-field mobile-label bold">Menu</mat-label>
+          <mat-label matTooltip="{{ row['menu'] }}">{{ row['menu'] }}</mat-label>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="icono">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          <mat-label>Icono</mat-label>
+        </th>
+        <td mat-cell *matCellDef="let row" class="truncate-row">
+          <mat-label class="mobile-field mobile-label bold">Icono</mat-label>
+          <mat-label matTooltip="{{ row['icono'] }}">{{ row['icono'] }}</mat-label>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="orden">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          <mat-label>Orden</mat-label>
+        </th>
+        <td mat-cell *matCellDef="let row" class="truncate-row">
+          <mat-label class="mobile-field mobile-label bold">Orden</mat-label>
+          <mat-label matTooltip="{{ row['orden'] }}">{{ row['orden'] }}</mat-label>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="estatus">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-label>Activo</mat-label>
+          <mat-checkbox *ngIf="inViewMenu.length >= 1" class="fl-right padding-right" matTooltip="Seleccionar / Deseleccionar" [checked]="selection.hasValue() && ngIsAllSelected()" (change)="$event ? ngMasterToggle() : null" [indeterminate]="selection.hasValue() && !ngIsAllSelected()"></mat-checkbox>
+        </th>
+        <td mat-cell *matCellDef="let row" [ngClass]="{'align-center' : !shared.rd, 'align-left' : !shared.rd }">
+          <mat-label class="mobile-field mobile-label bold">Activo</mat-label>
+          <mat-checkbox matTooltip="Activo" [checked]="selection.isSelected(row)" (change)="$event ? selection.toggle(row) : null; ngUpdateSelection(row);"></mat-checkbox>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="submenu">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+        <td mat-cell *matCellDef="let row" [ngClass]="{'align-center' : !shared.rd, 'align-left' : !shared.rd }">
+          <mat-label class="mobile-field mobile-label bold">SubMenu</mat-label>
+          <button mat-icon-button matTooltip="SubMenu" (click)="ngDialogRolSubMenu(row)" [disabled]="!row['estatus']">
+            <mat-icon>list_alt</mat-icon>
+          </button>
+        </td>
+      </ng-container>
+
+    </table>
+  </div>
+
+</div>

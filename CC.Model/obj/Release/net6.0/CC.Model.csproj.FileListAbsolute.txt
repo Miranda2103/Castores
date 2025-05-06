@@ -1,0 +1,59 @@
+C:\Users\syste\source\repos\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.deps.json
+C:\Users\syste\source\repos\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.dll
+C:\Users\syste\source\repos\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfoInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfo.cs
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.csproj.CoreCompileInputs.cache
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.dll
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\refint\CC.Model.dll
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.pdb
+C:\Users\syste\source\repos\CallCenter\CC.Model\obj\Release\net6.0\ref\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\refint\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\ref\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.deps.json
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\bin\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\refint\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\ref\CC.Model.dll
+C:\Users\Lenovo\Desktop\Proyecto\Nueva Version\CallCenter\CallCenter\CC.Model\obj\Release\net6.0\CC.Model.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\bin\Release\net6.0\CC.Model.deps.json
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\bin\Release\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\bin\Release\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.csproj.AssemblyReference.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfoInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfo.cs
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.csproj.CoreCompileInputs.cache
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\refint\CC.Model.dll
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\CC.Model.pdb
+C:\Users\syste\Documents\GitHub\ccc\CC.Model\obj\Release\net6.0\ref\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Model\bin\Release\net6.0\CC.Model.deps.json
+C:\Users\Lenovo\source\repo\ccc\CC.Model\bin\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Model\bin\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.AssemblyInfo.cs
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.sourcelink.json
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\refint\CC.Model.dll
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\CC.Model.pdb
+C:\Users\Lenovo\source\repo\ccc\CC.Model\obj\Release\net6.0\ref\CC.Model.dll

@@ -1,0 +1,22 @@
+.mat-column-editar {
+  width: 10% !important;
+}
+
+.mat-column-usuario {
+  width: 40% !important;
+}
+
+.mat-column-tipoMarcador {
+  width: 40% !important;
+}
+
+.mat-column-eliminar {
+  width: 10% !important;
+}
+
+
+@media screen and (max-width:600px) {
+  .mat-column-editar, .mat-column-usuario, .mat-column-tipoMarcador, .mat-column-eliminar {
+    width: 100% !important;
+  }
+}

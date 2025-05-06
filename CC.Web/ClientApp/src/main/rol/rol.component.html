@@ -1,0 +1,152 @@
+<div class="w100 ha100 fx fx-flow padding">
+
+  <div class="w100 fx fx-direction-row fx-middle content-center border-bottom">
+
+    <div class="w40 padding-top-05">
+
+
+
+    </div>
+
+    <div class="w25 align-center padding-bottom-05">
+
+      <button mat-raised-button class="wpx125" (click)="ngController(1);">
+        <mat-icon class="fl-left button-icon">refresh</mat-icon>
+        Consultar
+      </button>
+
+      <button mat-raised-button class="wpx125" (click)="ngExport(1);" *ngIf="inViewRol.length >= 1">
+        <mat-icon class="fl-left button-icon">get_app</mat-icon>
+        Descargar
+      </button>
+
+
+      <button mat-raised-button class="wpx125" (click)="ngDialogRol(1);">
+        <mat-icon class="fl-left button-icon">add</mat-icon>
+        Agregar
+      </button>
+
+      <button mat-raised-button class="wpx125" (click)="ngDialogConfirmacion(1);" *ngIf="selection.selected.length >= 1">
+        <mat-icon class="fl-left button-icon">delete</mat-icon>
+        Eliminar
+      </button>
+
+    </div>
+
+    <div class="w10 align-center">
+
+
+
+    </div>
+
+    <div class="w25 fx content-center">
+
+      <mat-paginator [pageSizeOptions]="[100, 250, 500, 1000]" showFirstLastButtons>
+      </mat-paginator>
+
+    </div>
+
+  </div>
+
+  <div class="w100" *ngIf="shared.rd">
+    <mat-form-field class="w100">
+      <mat-label>Buscar</mat-label>
+      <input matInput [(ngModel)]="search" (keyup)="ngSearch(2);">
+      <button mat-icon-button matSuffix *ngIf="search !== ''" (click)="ngClean(5); ngSearch(2);">
+        <mat-icon matTooltip="Limpiar">close</mat-icon>
+      </button>
+    </mat-form-field>
+  </div>
+
+  <div class="w100 h100 border-rd fx-remaining mat-elevation-z1 overflow background-7">
+    <table mat-table [dataSource]="ds" class="wmc" matSort>
+
+      <tr mat-header-row *matHeaderRowDef="dc; sticky: true"></tr>
+      <tr mat-header-row *matHeaderRowDef="fl; sticky: true"></tr>
+      <tr mat-row *matRowDef="let row; columns: dc;"></tr>
+
+      <!--FILTER-->
+
+      <ng-container matColumnDef="editar-se">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="rol-se">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-form-field class="w95 underline-white arrow-white">
+            <mat-label class="color-white">Filtro</mat-label>
+            <mat-select [panelClass]="'panel-select'" [formControl]="fcRol" multiple>
+              <mat-option *ngFor="let item of dsRol" [value]="item">
+                <mat-label title="{{ item }}">{{ item }}</mat-label>
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="fecha-se">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-form-field class="w95 underline-white arrow-white">
+            <mat-label class="color-white">Filtro</mat-label>
+            <mat-select [panelClass]="'panel-select'" [formControl]="fcFecha" multiple>
+              <mat-option *ngFor="let item of dsFecha" [value]="item">
+                <mat-label title="{{ item }}">{{ item }}</mat-label>
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </th>
+      </ng-container>
+
+      <ng-container matColumnDef="eliminar-se">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+      </ng-container>
+
+      <!--HEADER-->
+
+      <ng-container matColumnDef="editar">
+        <th mat-header-cell *matHeaderCellDef>
+        </th>
+        <td mat-cell *matCellDef="let row" class="align-center">
+          <mat-label class="mobile-field mobile-label bold"></mat-label>
+          <button mat-icon-button matTooltip="Editar" (click)="ngDialogRol(2,row);">
+            <mat-icon>edit</mat-icon>
+          </button>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="rol">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          <mat-label>Rol</mat-label>
+        </th>
+        <td mat-cell *matCellDef="let row" class="truncate-row">
+          <mat-label class="mobile-field mobile-label bold">Rol</mat-label>
+          <mat-label matTooltip="{{ row['rol'] }}">{{ row['rol'] }}</mat-label>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="fecha">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>
+          <mat-label>Fecha</mat-label>
+        </th>
+        <td mat-cell *matCellDef="let row" class="truncate-row">
+          <mat-label class="mobile-field mobile-label bold">Fecha</mat-label>
+          <mat-label matTooltip="{{ row['fecha'] }}">{{ row['fecha'] }}</mat-label>
+        </td>
+      </ng-container>
+
+      <ng-container matColumnDef="eliminar">
+        <th mat-header-cell *matHeaderCellDef class="align-center">
+          <mat-checkbox matTooltip="Seleccionar / Deseleccionar" [checked]="selection.hasValue() && ngIsAllSelected()" (change)="$event ? ngMasterToggle() : null" [indeterminate]="selection.hasValue() && !ngIsAllSelected()"></mat-checkbox>
+        </th>
+        <td mat-cell *matCellDef="let row" class="align-center">
+          <mat-label class="mobile-field mobile-label"></mat-label>
+          <mat-checkbox matTooltip="Eliminar" (change)="$event ? selection.toggle(row) : null;" [checked]="selection.isSelected(row)"></mat-checkbox>
+        </td>
+      </ng-container>
+
+    </table>
+  </div>
+
+</div>
